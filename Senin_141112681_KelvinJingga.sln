@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan 1", "Latihan 1\Latihan 1.csproj", "{966CF142-0721-48C3-AE69-D307CA5C0421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateUmur", "CalculateUmur\CalculateUmur.csproj", "{EAF0D31B-11FA-4461-B251-110B463C7756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate(umur)", "Calculate(umur)\Calculate(umur).csproj", "{53053236-EB31-4697-887D-52208276D41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_2", "Latihan_2\Latihan_2.csproj", "{A1579899-BD85-4CCB-A722-9365A932D87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_3", "Latihan_3\Latihan_3.csproj", "{B940C582-D912-488E-9DD9-CF0BA858C999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_4", "Latihan_4\Latihan_4.csproj", "{D247BD4D-8D10-4A53-8149-8D59244CFD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966CF142-0721-48C3-AE69-D307CA5C0421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966CF142-0721-48C3-AE69-D307CA5C0421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966CF142-0721-48C3-AE69-D307CA5C0421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966CF142-0721-48C3-AE69-D307CA5C0421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF0D31B-11FA-4461-B251-110B463C7756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF0D31B-11FA-4461-B251-110B463C7756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF0D31B-11FA-4461-B251-110B463C7756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF0D31B-11FA-4461-B251-110B463C7756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53053236-EB31-4697-887D-52208276D41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53053236-EB31-4697-887D-52208276D41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53053236-EB31-4697-887D-52208276D41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53053236-EB31-4697-887D-52208276D41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1579899-BD85-4CCB-A722-9365A932D87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1579899-BD85-4CCB-A722-9365A932D87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1579899-BD85-4CCB-A722-9365A932D87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1579899-BD85-4CCB-A722-9365A932D87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B940C582-D912-488E-9DD9-CF0BA858C999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B940C582-D912-488E-9DD9-CF0BA858C999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B940C582-D912-488E-9DD9-CF0BA858C999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B940C582-D912-488E-9DD9-CF0BA858C999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D247BD4D-8D10-4A53-8149-8D59244CFD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D247BD4D-8D10-4A53-8149-8D59244CFD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D247BD4D-8D10-4A53-8149-8D59244CFD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D247BD4D-8D10-4A53-8149-8D59244CFD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

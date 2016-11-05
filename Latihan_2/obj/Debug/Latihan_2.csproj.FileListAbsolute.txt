@@ -1,0 +1,9 @@
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\bin\Debug\Latihan_2.exe.config
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\bin\Debug\Latihan_2.exe
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\bin\Debug\Latihan_2.pdb
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.csprojResolveAssemblyReference.cache
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.Form1.resources
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.Properties.Resources.resources
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.csproj.GenerateResource.Cache
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.exe
+D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.pdb
