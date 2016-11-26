@@ -7,3 +7,6 @@ D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan 1\obj\Debug\Latihan_1.Properties.R
 D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan 1\obj\Debug\Latihan 1.csproj.GenerateResource.Cache
 D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan 1\obj\Debug\Latihan 1.exe
 D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan 1\obj\Debug\Latihan 1.pdb
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan 1\bin\Debug\Latihan 1.exe.config
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan 1\obj\Debug\Latihan 1.exe
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan 1\obj\Debug\Latihan 1.pdb
