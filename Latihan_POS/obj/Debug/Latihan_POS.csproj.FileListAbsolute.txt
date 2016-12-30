@@ -1,0 +1,31 @@
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\bin\Debug\MySql.Data.dll
+D:\Chyntia\Kuliah\TI-Sem5\.NET Lanjutan\Tugas\Pert 1\Senin_141110817_Chyntia\Latihan_POS\obj\Debug\Latihan_POS.Form1.resources
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\obj\Debug\Latihan_POS.exe
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\obj\Debug\Latihan_POS.pdb
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\obj\Debug\Latihan_POS.Form1.resources
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\Latihan_POS.exe
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\Latihan_POS.pdb
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\Senin_141110817_Chyntia-master\Senin_141110817_Chyntia-master\Latihan_POS\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+C:\Users\User\Desktop\Latihan_POS\obj\Debug\Latihan_POS.exe
+C:\Users\User\Desktop\Latihan_POS\obj\Debug\Latihan_POS.pdb
