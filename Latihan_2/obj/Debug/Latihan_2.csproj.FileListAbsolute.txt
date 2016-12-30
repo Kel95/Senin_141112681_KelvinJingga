@@ -7,3 +7,12 @@ D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.Properties.R
 D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.csproj.GenerateResource.Cache
 D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.exe
 D:\Materi\Praktek PBO Lanjutan\Proyek\Latihan_2\obj\Debug\Latihan_2.pdb
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\bin\Debug\Latihan_2.exe.config
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\bin\Debug\Latihan_2.exe
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\bin\Debug\Latihan_2.pdb
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\obj\Debug\Latihan_2.csprojResolveAssemblyReference.cache
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\obj\Debug\Latihan_2.Form1.resources
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\obj\Debug\Latihan_2.Properties.Resources.resources
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\obj\Debug\Latihan_2.csproj.GenerateResource.Cache
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\obj\Debug\Latihan_2.exe
+D:\Theater\theater japan\education\semester 5\Framework Lanjutan\volley\kj\Senin_141112681_KelvinJingga\Latihan_2\obj\Debug\Latihan_2.pdb
